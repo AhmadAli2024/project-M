@@ -1,3 +1,4 @@
+//this example runs on the MNIST dataset
 #include<stdlib.h>
 #include "translate.h"
 #include "MatrixOperations.h"
