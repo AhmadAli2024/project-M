@@ -95,7 +95,10 @@ Momentum(&base,SDW,SDB,0.9);
 Note that some optimizers need extra parameters other than the learning rate.
 Congrats you have finally trained your AI.
 
-## Extra Functions
+## Activation Functions
+|Number|Function|
+|------|--------|
+|1     |RELU    |
 
   
 
