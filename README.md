@@ -111,5 +111,18 @@ Congrats you have finally trained your AI.
 
 ## Extra Functions
 
+### Exporting Net
+To export your weights and biases you need to have a export.txt file in your directory (with the same name).
+```C
+netExport(&base);
+```
+### Importing Net
+To import your weights and biases you need to have a export.txt file in your directory (with the same name). Same file as the one you exported.
+```C
+netImport(&base);
+```
+
+## Extra Questions
+if you have any quiestions you can email me at ahmadnael@protonmail.com
   
 
