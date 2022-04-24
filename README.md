@@ -96,9 +96,20 @@ Note that some optimizers need extra parameters other than the learning rate.
 Congrats you have finally trained your AI.
 
 ## Activation Functions
-|Number|Function|
-|------|--------|
-|1     |RELU    |
+|Number|Function  |
+|------|----------|
+|1     |RELU      |
+|2     |Sigmoid   |
+|3     |Tanh      |
+|4     |Leaky RELU|
+|5     |Param RELU|
+|6     |ELU       |
+|7     |Softmax   |
+|8     |Swish     |
+|9     |GELU      |
+|10    |SELU      |
+
+## Extra Functions
 
   
 
